@@ -4,3 +4,6 @@
 here is the link to see the collecting of the data using the api :https://nbviewer.org/github/ynsyassine/testrepo/blob/main/spacex_api.ipynb
 
 
+the link to view the eda sql :https://nbviewer.org/github/ynsyassine/testrepo/blob/main/eda-sql-coursera.ipynb
+
+
